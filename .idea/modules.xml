@@ -3,7 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BIO/BIO.iml" filepath="$PROJECT_DIR$/BIO/BIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BIO-chat/BIO-chat.iml" filepath="$PROJECT_DIR$/BIO-chat/BIO-chat.iml" />
       <module fileurl="file://$PROJECT_DIR$/NIO.iml" filepath="$PROJECT_DIR$/NIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NIO-learn/NIO-learn.iml" filepath="$PROJECT_DIR$/NIO-learn/NIO-learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NIO-buffer/NIO-t.iml" filepath="$PROJECT_DIR$/NIO-buffer/NIO-t.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NIO-buffer/NIO-test.iml" filepath="$PROJECT_DIR$/NIO-buffer/NIO-test.iml" />
     </modules>
   </component>
 </project>

@@ -12,7 +12,7 @@ import java.net.Socket;
 public class Client {
     public static void main(String[] args) {
         try(
-                InputStream is = new FileInputStream("E:\\HDU\\Java\\Learn\\NIO\\BIO\\src\\com\\file\\Input");
+                InputStream is = new FileInputStream("E:\\HDU\\Java\\Learn\\NIO\\BIO\\src\\com\\file\\Input\\java.png");
         ){
             //  1、请求与服务端的Socket链接
             Socket socket = new Socket("127.0.0.1" , 8888);
